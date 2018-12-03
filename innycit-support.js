@@ -28,7 +28,6 @@ window.addEventListener('load', function () {
   tipId.innerHTML = `IN NYC IT Tech Tip # ${tips[randomTipId].id}`
   tipTitle.innerHTML = `${tips[randomTipId].title}`
   tipBody.innerHTML = `${tips[randomTipId].body}`
-  console.log(randomTipId)
 });
 
 button.addEventListener('click', function () {
