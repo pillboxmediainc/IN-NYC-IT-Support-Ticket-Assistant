@@ -5,13 +5,13 @@ body {
   margin: 0;
   min-height: 180px;
   padding: 0;
-  width: 425px;
+  width: 395;
   align-items: center;
 }
 
 #app {
   padding-bottom: 3px;
-  background-color: #f9f9f9;
+  background-color: #f8f9fa;
 }
 
 div {
@@ -64,7 +64,7 @@ table, #create-ticket {
 
 #it-tips-body {
   font-size: 14px;
-  padding: 10px 50px 10px 50px;
+  padding: 10px 30px 10px 30px;
 }
 
 button {
@@ -82,5 +82,5 @@ button {
 button:focus {outline:0;}
 
 button:hover { 
-  background-color: #1f8be4;
+  background-color: #197dcf;
 }
