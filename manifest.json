@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "IN NYC IT - Support Ticket Assistant",
   "description": "The IN NYC IT Chrome Extension will make creating new support tickets easier than ever!",
-  "version": "1.0.0",
+  "version": "0.0.0.1",
   "icons": {
     "128": "icon_128.png"
   },
